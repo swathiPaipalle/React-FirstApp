@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Swathi Paipalle <swathi.paipalle@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "3.2.0"
+  },
+  "devDependencies": {
+    "react": "~0.14.2",
+    "react-dom": "~0.1.0"
+  }
+}
